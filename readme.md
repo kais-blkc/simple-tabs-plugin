@@ -2,7 +2,7 @@
 
 Simple tab plugin is just a tab plugin.
 
-## installation
+## Installation
 Download the [simple-tab-plugin.js](https://github.com/kais-blkc/simple-tabs-plugin/blob/version.1.0/js/tabs-plugin.js) file.
 
 ## Usage
