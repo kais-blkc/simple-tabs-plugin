@@ -13,7 +13,7 @@ Add simpleTabPlugin before your script:
 <script src="yourScript.js"></script>
 ```
 
-Example tabs:
+#### Example tabs:
 ```html
 <div class="tabs">
     <div class="title-list">
@@ -29,7 +29,7 @@ Example tabs:
     </div>
   </div>
 ```
-Plugin setup:
+#### Plugin setup:
 * titleContainer - the wrapper for the title
 * title - the title class 
 * content - content class
