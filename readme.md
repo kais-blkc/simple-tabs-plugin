@@ -17,17 +17,17 @@ Add simpleTabPlugin before your script:
 ```html
 <div class="tabs">
     <div class="title-list">
-      <button class="title-item">Title 1</button>
-      <button class="title-item">Title 2</button>
-      <button class="title-item">Title 3</button>
+        <button class="title-item">Title 1</button>
+        <button class="title-item">Title 2</button>
+        <button class="title-item">Title 3</button>
     </div>
-
+    
     <div class="content-list">
-      <div class="content-item">Content 1</div>
-      <div class="content-item">Content 2</div>
-      <div class="content-item">Content 3</div>
+        <div class="content-item">Content 1</div>
+        <div class="content-item">Content 2</div>
+        <div class="content-item">Content 3</div>
     </div>
-  </div>
+</div>
 ```
 #### Plugin setup:
 * titleContainer - the wrapper for the title
