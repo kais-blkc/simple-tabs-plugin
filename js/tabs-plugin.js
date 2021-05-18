@@ -30,7 +30,6 @@
       const count = target.dataset.count - 1
 
       if (target.closest(this.options.title)) {
-        // $content[count].style.display = 'block'
         dom.hideAll($content, count)
       }
     })
